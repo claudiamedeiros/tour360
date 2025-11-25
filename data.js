@@ -112,13 +112,13 @@ var APP_DATA = {
           "yaw": 2.5388826791679833,
           "pitch": -0.22663801205303002,
           "title": "Laboratório Vácuo-Térmico (Teste de Vácuo-Térmico)",
-          "text": "O Teste de Vácuo-Térmico é específico para satélites, pois reproduz as condições de vácuo e de variações extremas de temperatura que existem no espaço. O espaço é um ambiente muito crítico para dispositivos que são lançados em órbita. Por isso, antes de colocar um sistema, um satélite ou qualquer dispositivo em órbita, é preciso simular o ambiente do espaço. Assim, será possível garantir que ele funcione mesmo no ambiente mais crítico que existe.<a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Saiba mais sobre o LIT</a>"
+          "text": "O Teste de Vácuo-Térmico é específico para satélites, pois reproduz as condições de vácuo e de variações extremas de temperatura que existem no espaço. O espaço é um ambiente muito crítico para dispositivos que são lançados em órbita. Por isso, antes de colocar um sistema, um satélite ou qualquer dispositivo em órbita, é preciso simular o ambiente do espaço. Assim, será possível garantir que ele funcione mesmo no ambiente mais crítico que existe.<a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Clique aqui para saber mais</a>"
         },
         {
           "yaw": -0.29327728909636264,
           "pitch": -0.10234467224897337,
           "title": "Área de Teste de Vibração",
-          "text": "Os ensaios de vibração respondem às preocupações dos projetistas, que avaliam se os equipamentos embarcados suportam os esforços, durante o voo com o foguete. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Saiba mais sobre o LIT</a>"
+          "text": "Os ensaios de vibração respondem às preocupações dos projetistas, que avaliam se os equipamentos embarcados suportam os esforços, durante o voo com o foguete. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> <b> Clique aqui para saber mais.<b> </a>"
         }
       ]
     },
@@ -221,7 +221,7 @@ var APP_DATA = {
           "yaw": -0.6181058255971408,
           "pitch": 0.4118411735483747,
           "title": "Área de testes de vácuo-térmico",
-          "text": "Diversos testes podem ser feitos simultaneamente. O ítem em teste definirá o tamanho da camara utilizada. O INPE atualmente possui 5 camaras. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Saiba mais sobre o LIT</a>"
+          "text": "Diversos testes podem ser feitos simultaneamente. O ítem em teste definirá o tamanho da camara utilizada. O INPE atualmente possui 5 camaras. <br> <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Saiba mais sobre o LIT</a>"
         }
       ]
     },
@@ -1730,7 +1730,7 @@ var APP_DATA = {
           "yaw": 2.742723712657643,
           "pitch": -0.22240177358446545,
           "title": "Área de expansão do LIT",
-          "text": "Esta área foi projetada para acomodar a expansão do Laboratório de Integração e Teste.&nbsp;"
+          "text": "Esta área foi projetada para acomodar a expansão do Laboratório de Integração e Teste."
         }
       ]
     },
@@ -2372,7 +2372,7 @@ var APP_DATA = {
           "yaw": 3.1368712364640112,
           "pitch": -0.09288638834480167,
           "title": "Área de integração do satélite",
-          "text": "O satélite é inteiramente montado e testado antes de ser enviado para a base de lançamento. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Saiba mais sobre o LIT</a> "  
+          "text": "O satélite é inteiramente montado e testado antes de ser enviado para a base de lançamento. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes' target='_blank'> Clique aqui para saber mais</a> "  
         }
       ]
     },
