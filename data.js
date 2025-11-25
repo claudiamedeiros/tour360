@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": -3.0067915893762844,
           "pitch": -0.15772685174664502,
           "title": "Camaras vácuo-térmico",
-          "text": "Aqui são realizados ensaios de Vácuo-Térmico, que simulam as condições do espaço para garantir o funcionamento dos satélites em órbita. <a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes/laboratorio-vacuo-termico' target='_blank'> Clique aqui para saber mais</a>"
+          "text": "Aqui são realizados ensaios de Vácuo-Térmico, que simulam as condições do espaço para garantir o funcionamento dos satélites em órbita.<br><a href='https://www.gov.br/inpe/pt-br/area-conhecimento/montagem-integracao-e-testes/laboratorio-vacuo-termico' target='_blank' style='color: #007bff; text-decoration: underline;'>Clique aqui para saber mais</a>"
         }
       ]
     },
