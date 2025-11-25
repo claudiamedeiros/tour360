@@ -1,8 +1,8 @@
-davar APP_DATA = {
+var APP_DATA = {
   "scenes": [
     {
       "id": "0-entrada-sem-pessoa",
-      "name": "Entrada",
+      "name": "Entrada Sem Pessoa",
       "levels": [
         {
           "tileSize": 256,
@@ -37,13 +37,21 @@ davar APP_DATA = {
           "yaw": 0.9352187580744928,
           "pitch": 0.41380713491042975,
           "rotation": 0,
-          "target": "Laboratório de Integração e Testes"
+          "target": "1-entrada-com-pessoas"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -3.0067915893762844,
+          "pitch": -0.15772685174664502,
+          "title": "Cameras 01 e 02 de termo vácuo",
+          "text": "Testes"
         }
       ]
     },
     {
       "id": "1-entrada-com-pessoas",
-      "name": "Entrada",
+      "name": "Entrada com pessoas",
       "levels": [
         {
           "tileSize": 256,
