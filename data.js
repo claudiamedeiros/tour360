@@ -281,7 +281,7 @@ var APP_DATA = {
         {
           "yaw": 3.0913614399801297,
           "pitch": -0.16882919305393784,
-          "title": "<span id=\"docs-internal-guid-aa41100b-7fff-f922-4fc0-44d627414415\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Camara de Teste de Vácuo-Térmico Maior</span></span>",
+          "title": "Camara de Teste de Vácuo-Térmico Maior",
           "text": "Camera maior para teste de simulação de ambiente controlado. Os satélites CBERS e Amazonia foram testados nessa camara."
         }
       ]
@@ -415,8 +415,8 @@ var APP_DATA = {
         {
           "yaw": -3.030561610941982,
           "pitch": -0.32397705684604006,
-          "title": "<span id=\"docs-internal-guid-aa41100b-7fff-f922-4fc0-44d627414415\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Camara de teste de Vácuo-Térmico</span></span>",
-          "text": "<span id=\"docs-internal-guid-aa41100b-7fff-f922-4fc0-44d627414415\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Camara média para teste de vácuo-térmico.</span></span>"
+          "title": "Camara de teste de Vácuo-Térmico",
+          "text": "Camara média para teste de vácuo-térmico."
         }
       ]
     },
@@ -476,8 +476,8 @@ var APP_DATA = {
         {
           "yaw": 2.9517572218160755,
           "pitch": 0.2271058215550319,
-          "title": "<span id=\"docs-internal-guid-1b3e570b-7fff-674f-cbf3-e4de14fa462c\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Ensaios Dinâmicos: Vibração e Choque (Teste de Vibração)</span></span>",
-          "text": "<span id=\"docs-internal-guid-79e51488-7fff-ec2f-28c4-b36d5acf5bdb\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Simulam as vibrações e impactos que o satélite enfrentará durante o transporte e, principalmente, no lançamento. Estes testes ajudam a identificar a qualidade dos elementos mecânicos e validar modelos de engenharia.</span></span>"
+          "title": "Ensaios Dinâmicos: Vibração e Choque (Teste de Vibração)",
+          "text": "Simulam as vibrações e impactos que o satélite enfrentará durante o transporte e, principalmente, no lançamento. Estes testes ajudam a identificar a qualidade dos elementos mecânicos e validar modelos de engenharia."
         }
       ]
     },
@@ -869,8 +869,8 @@ var APP_DATA = {
         {
           "yaw": -0.06881108518815893,
           "pitch": -0.14920991261046979,
-          "title": "<span id=\"docs-internal-guid-2e8938b7-7fff-0d73-5732-4a9ee036cfd8\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Laboratório de Compatibilidade Eletromagnética (Testes de EMI e EMC)</span></span>",
-          "text": "<span id=\"docs-internal-guid-0a355b60-7fff-d423-0654-64a92ff616ed\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Os Ensaios de Compatibilidade Eletromagnética garantem que um equipamento, como um satélite, um carro ou qualquer sistema eletrônico, não sofra interferências eletromagnéticas, de maneira a garantir seu perfeito funcionamento. No LIT, isso é feito em câmaras anecóicas, ambientes projetados para absorver completamente as ondas sonoras e eletromagnéticas, eliminando reflexões e isolando o espaço do ruído externo.</span></span><div><span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">www.inpe.br</span></span></div>"
+          "title": "Laboratório de Compatibilidade Eletromagnética (Testes de EMI e EMC)",
+          "text": "Os Ensaios de Compatibilidade Eletromagnética garantem que um equipamento, como um satélite, um carro ou qualquer sistema eletrônico, não sofra interferências eletromagnéticas, de maneira a garantir seu perfeito funcionamento. No LIT, isso é feito em câmaras anecóicas, ambientes projetados para absorver completamente as ondas sonoras e eletromagnéticas, eliminando reflexões e isolando o espaço do ruído externo."
         }
       ]
     },
@@ -1360,8 +1360,8 @@ var APP_DATA = {
         {
           "yaw": -0.4818551225324388,
           "pitch": -0.33153194246696494,
-          "title": "<span id=\"docs-internal-guid-dd87405d-7fff-38d8-2ae7-93415dbc901a\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Ensaios Vibro Acústicos (Câmara Acústica Reverberante)</span></span>",
-          "text": "<span id=\"docs-internal-guid-f39b2f55-7fff-dc4f-f143-2d16c2ebee12\"><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">Reproduz o ambiente extremamente ruidoso do lançamento de um foguete. Mesmo protegido por uma coifa ou ogiva, o satélite é exposto a pressões acústicas muito altas. A câmara usa cornetas especiais, que se parecem com grandes caixas de som, para gerar ondas sonoras de até 156,5 dB, nível </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">superior</span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\"> ao de turbinas de avião </span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 255); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">(120 a 130 dB)</span><span style=\"font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;\">.</span></span>"
+          "title": "Ensaios Vibro Acústicos (Câmara Acústica Reverberante)",
+          "text": "Reproduz o ambiente extremamente ruidoso do lançamento de um foguete. Mesmo protegido por uma coifa ou ogiva, o satélite é exposto a pressões acústicas muito altas. A câmara usa cornetas especiais, que se parecem com grandes caixas de som, para gerar ondas sonoras de até 156,5 dB, nível superior ao de turbinas de avião (120 a 130dB) "
         }
       ]
     },
@@ -1433,7 +1433,7 @@ var APP_DATA = {
         {
           "yaw": -0.28796954973495126,
           "pitch": -0.11406869845800571,
-          "title": "<div>Camara anecóica 2</div>",
+          "title": "Camara anecóica 2",
           "text": "Essa camara anecóica maior pode ser utilizada para testar grandes objetos como carros, ônibus e satélites grandes."
         }
       ]
@@ -2372,7 +2372,7 @@ var APP_DATA = {
           "yaw": 3.1368712364640112,
           "pitch": -0.09288638834480167,
           "title": "Área de integração do satélite",
-          "text": "O satélite é inteiramente montado e testado antes de ser enviado para a base de lançamento."
+          "text": "O satélite é inteiramente montado e testado antes de ser enviado para a base de lançamento. <a href='www.inpe.br/lit' target='_blank'>Saiba mais sobre o LIT</a> "  
         }
       ]
     },
