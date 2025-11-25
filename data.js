@@ -43,7 +43,7 @@ davar APP_DATA = {
     },
     {
       "id": "1-entrada-com-pessoas",
-      "name": "Entrada com pessoas",
+      "name": "Entrada",
       "levels": [
         {
           "tileSize": 256,
