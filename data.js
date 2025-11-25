@@ -1,8 +1,8 @@
-davar APP_DATA = {
+var APP_DATA = {
   "scenes": [
     {
       "id": "0-entrada-sem-pessoa",
-      "name": "Entrada",
+      "name": "Entrada Sem Pessoa",
       "levels": [
         {
           "tileSize": 256,
