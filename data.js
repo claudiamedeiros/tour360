@@ -37,7 +37,15 @@ var APP_DATA = {
           "yaw": 0.9352187580744928,
           "pitch": 0.41380713491042975,
           "rotation": 0,
-          "target": "Laboratório de Integração e Testes"
+          "target": "1-entrada-com-pessoas"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -3.0067915893762844,
+          "pitch": -0.15772685174664502,
+          "title": "Cameras 01 e 02 de termo vácuo",
+          "text": "Testes"
         }
       ]
     },
